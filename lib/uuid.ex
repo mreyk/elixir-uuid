@@ -1,5 +1,4 @@
 defmodule UUID do
-  import Bitwise
   @moduledoc """
   UUID generator and utilities for [Elixir](http://elixir-lang.org/).
   See [RFC 4122](http://www.ietf.org/rfc/rfc4122.txt).
